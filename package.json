@@ -12,5 +12,6 @@
   "dependencies": {
     "node-fetch": "^2.0.0"
   },
+  "repository": "korobaka/ubereats.js",
   "devDependencies": {}
 }
