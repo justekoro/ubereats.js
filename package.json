@@ -1,0 +1,16 @@
+{
+  "name": "ubereats.js",
+  "version": "0.0.1",
+  "description": "A package which allows you to \"use\" uber eats programmatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["uber eats", "uber", "eats"],
+  "author": "korobaka",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.0.0"
+  },
+  "devDependencies": {}
+}
